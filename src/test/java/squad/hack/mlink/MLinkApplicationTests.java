@@ -11,6 +11,7 @@ public class MLinkApplicationTests {
 
     @Test
     public void contextLoads() {
+        assert
     }
 
 }
