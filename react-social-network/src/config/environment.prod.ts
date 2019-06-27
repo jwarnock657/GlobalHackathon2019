@@ -2,17 +2,18 @@ import { LanguageType } from 'store/reducers/locale/langugeType'
 
 export const environment = {
   firebase: {
-    apiKey: 'AIzaSyAHOZ7rWGDODCwJMB3WIt63CAIa90qI-jg',
-    authDomain: 'test-4515a.firebaseapp.com',
-    databaseURL: 'https://test-4515a.firebaseio.com',
-    projectId: 'test-4515a',
-    storageBucket: 'test-4515a.appspot.com',
-    messagingSenderId: '964743099489'
+    apiKey: 'AIzaSyDOThz_J7oczci87ZXF9ZDEtojTBz1B_qk',
+    authDomain: 'm-link-606c6.firebaseapp.com',
+    databaseURL: 'https://m-link-606c6.firebaseio.com',
+    projectId: 'm-link-606c6',
+    storageBucket: 'gs://m-link-606c6.appspot.com',
+    messagingSenderId: '475055102212',
+    appId: '1:475055102212:web:b999fae6d477128a'
   },
   settings: {
     enabledOAuthLogin: true,
     enabledOffline: true,
-    appName: 'Green',
+    appName: 'M-Link',
     defaultProfileCover: 'https://firebasestorage.googleapis.com/v0/b/open-social-33d92.appspot.com/o/images%2F751145a1-9488-46fd-a97e-04018665a6d3.JPG?alt=media&token=1a1d5e21-5101-450e-9054-ea4a20e06c57',
     defaultLanguage: LanguageType.English
   },
